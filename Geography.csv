@@ -1,0 +1,1001 @@
+Cus_id,State,Country,pin_code
+1,New York,United States,10105
+2,Alabama,United States,36205
+3,New York,United States,14619
+4,New York,United States,11388
+5,Washington,United States,98464
+6,New York,United States,12247
+7,New York,United States,11480
+8,Alabama,United States,36670
+9,Alabama,United States,35244
+10,New York,United States,11854
+11,New York,United States,10045
+12,New York,United States,11854
+13,New York,United States,10060
+14,New York,United States,10045
+15,New York,United States,10155
+16,New York,United States,10464
+17,New York,United States,14683
+18,New York,United States,10705
+19,Alaska,United States,99599
+20,Washington,United States,98405
+21,Alabama,United States,35290
+22,Alabama,United States,35205
+23,Washington,United States,98158
+24,Washington,United States,98008
+25,New York,United States,14619
+26,Washington,United States,98506
+27,New York,United States,11470
+28,New York,United States,14225
+29,New York,United States,11054
+30,Washington,United States,98148
+31,Alabama,United States,35263
+32,Washington,United States,98148
+33,New York,United States,12205
+34,Washington,United States,98158
+35,Alaska,United States,99507
+36,New Jersey,United States,7104
+37,New York,United States,14276
+38,Alabama,United States,35205
+39,Alabama,United States,35254
+40,New York,United States,10045
+41,New York,United States,11854
+42,New York,United States,11044
+43,Alaska,United States,99507
+44,Alaska,United States,99522
+45,New York,United States,10105
+46,New York,United States,10060
+47,Washington,United States,98687
+48,New York,United States,11044
+49,New York,United States,10131
+50,Washington,United States,98115
+51,New York,United States,10305
+52,New York,United States,10045
+53,New York,United States,11205
+54,New York,United States,11388
+55,Alabama,United States,35290
+56,New York,United States,10305
+57,Washington,United States,98008
+58,New York,United States,14905
+59,New York,United States,14614
+60,New York,United States,10009
+61,New York,United States,11024
+62,New York,United States,10155
+63,New York,United States,14683
+64,New York,United States,10270
+65,New York,United States,14619
+66,New York,United States,11210
+67,New Jersey,United States,7195
+68,New York,United States,10469
+69,Alabama,United States,36641
+70,New York,United States,10004
+71,New York,United States,11247
+72,New York,United States,11499
+73,New York,United States,14683
+74,New York,United States,11247
+75,New York,United States,11388
+76,Alabama,United States,35895
+77,New Jersey,United States,7104
+78,Washington,United States,98158
+79,New York,United States,10469
+80,New York,United States,13205
+81,New Jersey,United States,8650
+82,Alabama,United States,36689
+83,New York,United States,10009
+84,Alabama,United States,35236
+85,New York,United States,10469
+86,New Jersey,United States,7195
+87,New York,United States,14905
+88,New York,United States,12247
+89,Washington,United States,98447
+90,New York,United States,11044
+91,New York,United States,10305
+92,New York,United States,10045
+93,Washington,United States,98158
+94,New York,United States,10060
+95,New York,United States,10464
+96,New Jersey,United States,8650
+97,New York,United States,10009
+98,New York,United States,10705
+99,Washington,United States,98506
+100,New York,United States,14619
+101,New Jersey,United States,8695
+102,Alabama,United States,35244
+103,New York,United States,14614
+104,Alabama,United States,36177
+105,New York,United States,12305
+106,Alabama,United States,36195
+107,Alabama,United States,35205
+108,New Jersey,United States,7195
+109,New York,United States,10175
+110,Washington,United States,98008
+111,New York,United States,10305
+112,New York,United States,11499
+113,New York,United States,11044
+114,New York,United States,10131
+115,Washington,United States,98104
+116,New Jersey,United States,7195
+117,New York,United States,10125
+118,New York,United States,12205
+119,New Jersey,United States,8695
+120,Alabama,United States,35290
+121,Alabama,United States,36641
+122,Alaska,United States,99522
+123,New York,United States,10125
+124,New Jersey,United States,8650
+125,New York,United States,10305
+126,Alabama,United States,35263
+127,New York,United States,11499
+128,New York,United States,10009
+129,Washington,United States,98506
+130,New York,United States,10170
+131,New Jersey,United States,7505
+132,New York,United States,10160
+133,New York,United States,10150
+134,New York,United States,12247
+135,New York,United States,14205
+136,New York,United States,10305
+137,Washington,United States,98158
+138,New York,United States,10160
+139,New Jersey,United States,8650
+140,Alabama,United States,36195
+141,New York,United States,11210
+142,Alabama,United States,36205
+143,Alabama,United States,36670
+144,New York,United States,10705
+145,Alabama,United States,35236
+146,Washington,United States,98506
+147,New York,United States,14276
+148,New Jersey,United States,7505
+149,New York,United States,14683
+150,New York,United States,10009
+151,New York,United States,10004
+152,New York,United States,10469
+153,Alabama,United States,36689
+154,New York,United States,14205
+155,New Jersey,United States,8922
+156,New York,United States,14225
+157,New York,United States,11215
+158,New York,United States,14652
+159,New York,United States,14604
+160,New York,United States,12210
+161,New York,United States,14614
+162,New Jersey,United States,8922
+163,New York,United States,14614
+164,New York,United States,10170
+165,New York,United States,11210
+166,Alaska,United States,99709
+167,New York,United States,14652
+168,New York,United States,12205
+169,New Jersey,United States,8104
+170,New York,United States,10039
+171,Washington,United States,98115
+172,Alabama,United States,36109
+173,New York,United States,10184
+174,New York,United States,10105
+175,New York,United States,14652
+176,Alabama,United States,35236
+177,New Jersey,United States,7104
+178,Alabama,United States,35254
+179,Alabama,United States,35487
+180,New York,United States,10270
+181,Washington,United States,98405
+182,New York,United States,10131
+183,New York,United States,10150
+184,New York,United States,14276
+185,New York,United States,11499
+186,New York,United States,14205
+187,Washington,United States,98405
+188,New York,United States,10705
+189,New Jersey,United States,7195
+190,New York,United States,10305
+191,New York,United States,11024
+192,Alaska,United States,99522
+193,Washington,United States,98008
+194,Alabama,United States,35895
+195,Washington,United States,98195
+196,New Jersey,United States,8695
+197,New York,United States,10155
+198,New York,United States,13205
+199,Alabama,United States,35205
+200,Washington,United States,98109
+201,Alabama,United States,36109
+202,New York,United States,10039
+203,Alabama,United States,36177
+204,Washington,United States,98158
+205,New York,United States,11205
+206,New York,United States,10705
+207,Alabama,United States,35805
+208,New York,United States,11205
+209,Alabama,United States,36195
+210,Alabama,United States,35254
+211,New York,United States,14276
+212,Alabama,United States,35815
+213,Alabama,United States,36195
+214,New York,United States,14619
+215,Washington,United States,98109
+216,New York,United States,10270
+217,New York,United States,12247
+218,New York,United States,14614
+219,Alaska,United States,99709
+220,Alabama,United States,35290
+221,New York,United States,11254
+222,New York,United States,10004
+223,New York,United States,10004
+224,New York,United States,14619
+225,Washington,United States,98115
+226,Alabama,United States,36641
+227,Washington,United States,98158
+228,New York,United States,10184
+229,New York,United States,14604
+230,Alabama,United States,36177
+231,Alabama,United States,36689
+232,Alaska,United States,99522
+233,Washington,United States,98104
+234,New York,United States,10270
+235,New York,United States,10150
+236,New York,United States,12205
+237,New Jersey,United States,8104
+238,New York,United States,11210
+239,New York,United States,10004
+240,New York,United States,12210
+241,New York,United States,11254
+242,New Jersey,United States,7522
+243,New York,United States,11210
+244,Alabama,United States,36109
+245,Alaska,United States,99599
+246,New York,United States,10170
+247,New York,United States,14609
+248,Alabama,United States,35487
+249,New Jersey,United States,8104
+250,Alabama,United States,35895
+251,Alabama,United States,35244
+252,Alabama,United States,36670
+253,New York,United States,10184
+254,New Jersey,United States,8104
+255,New York,United States,10469
+256,Alabama,United States,35487
+257,New York,United States,11024
+258,New York,United States,11215
+259,New York,United States,11407
+260,New York,United States,10464
+261,New York,United States,10131
+262,Alabama,United States,36177
+263,Washington,United States,98464
+264,Washington,United States,98447
+265,Alabama,United States,36104
+266,New York,United States,11247
+267,New York,United States,10060
+268,New York,United States,10469
+269,Alabama,United States,36177
+270,Alabama,United States,35205
+271,New York,United States,14619
+272,New York,United States,10009
+273,New York,United States,12210
+274,New York,United States,10160
+275,Alabama,United States,36177
+276,New York,United States,10150
+277,New York,United States,11205
+278,New York,United States,10184
+279,Alabama,United States,35290
+280,New York,United States,11205
+281,Alaska,United States,99599
+282,Alaska,United States,99522
+283,New York,United States,10459
+284,New York,United States,11054
+285,New York,United States,14652
+286,New York,United States,11205
+287,New York,United States,14225
+288,Washington,United States,98447
+289,Washington,United States,98104
+290,Washington,United States,98104
+291,New York,United States,10150
+292,New York,United States,11355
+293,New York,United States,10150
+294,Alabama,United States,35205
+295,New York,United States,11044
+296,New York,United States,10045
+297,New York,United States,10305
+298,Alabama,United States,35805
+299,New York,United States,10009
+300,New York,United States,14604
+301,New York,United States,14604
+302,New Jersey,United States,7112
+303,Alaska,United States,99522
+304,New York,United States,11054
+305,New York,United States,14652
+306,Washington,United States,98506
+307,New York,United States,14609
+308,Alabama,United States,36195
+309,New Jersey,United States,7104
+310,New York,United States,12205
+311,New York,United States,11210
+312,New York,United States,14276
+313,New York,United States,10150
+314,Alabama,United States,36109
+315,New York,United States,11247
+316,Alaska,United States,99709
+317,New York,United States,14619
+318,New York,United States,10469
+319,New Jersey,United States,7505
+320,New York,United States,14652
+321,Alabama,United States,36641
+322,New York,United States,11044
+323,Washington,United States,98506
+324,Alaska,United States,99522
+325,New York,United States,11388
+326,Washington,United States,98104
+327,New York,United States,10004
+328,Washington,United States,98664
+329,Washington,United States,98185
+330,Alabama,United States,36177
+331,New York,United States,11480
+332,Alabama,United States,35487
+333,Washington,United States,98148
+334,Washington,United States,98687
+335,New Jersey,United States,8922
+336,Alabama,United States,36195
+337,Washington,United States,98115
+338,Alabama,United States,36670
+339,New York,United States,12205
+340,Alabama,United States,36104
+341,New Jersey,United States,7522
+342,Alabama,United States,36109
+343,New York,United States,12210
+344,Alabama,United States,36670
+345,New Jersey,United States,8922
+346,Washington,United States,98405
+347,Washington,United States,98405
+348,Washington,United States,98442
+349,Alaska,United States,99599
+350,New Jersey,United States,7195
+351,New Jersey,United States,7104
+352,Alabama,United States,36670
+353,Alabama,United States,35815
+354,New York,United States,12247
+355,Alabama,United States,35236
+356,Washington,United States,98682
+357,New York,United States,14205
+358,Alabama,United States,36195
+359,New York,United States,10184
+360,New York,United States,11247
+361,New Jersey,United States,7112
+362,New York,United States,10175
+363,Alabama,United States,35895
+364,New York,United States,10170
+365,New York,United States,10175
+366,New York,United States,14683
+367,Alabama,United States,36177
+368,New Jersey,United States,7112
+369,Alabama,United States,35815
+370,New York,United States,14652
+371,New York,United States,10004
+372,Alabama,United States,36641
+373,New York,United States,10105
+374,Alabama,United States,35263
+375,Alabama,United States,36195
+376,Alaska,United States,99507
+377,Washington,United States,98687
+378,New York,United States,10039
+379,New York,United States,10004
+380,New York,United States,10305
+381,New York,United States,10045
+382,New York,United States,14614
+383,Alabama,United States,35895
+384,New York,United States,11044
+385,New York,United States,11499
+386,New York,United States,12305
+387,Alabama,United States,36109
+388,New York,United States,14905
+389,Alaska,United States,99709
+390,New Jersey,United States,8922
+391,New York,United States,10155
+392,Alaska,United States,99599
+393,New York,United States,10150
+394,New York,United States,14276
+395,Alabama,United States,36641
+396,New York,United States,10039
+397,Alabama,United States,36689
+398,New York,United States,11247
+399,Alabama,United States,35215
+400,New York,United States,11499
+401,New York,United States,14683
+402,New Jersey,United States,8650
+403,New Jersey,United States,7195
+404,Washington,United States,98506
+405,New Jersey,United States,7104
+406,New York,United States,13205
+407,Washington,United States,98195
+408,New York,United States,10039
+409,Alabama,United States,35236
+410,Alabama,United States,35290
+411,New York,United States,11355
+412,New York,United States,14614
+413,Washington,United States,98109
+414,New York,United States,10160
+415,Alabama,United States,35205
+416,New York,United States,10039
+417,Alabama,United States,35290
+418,New York,United States,10155
+419,Alabama,United States,35487
+420,New York,United States,14614
+421,New York,United States,11215
+422,New York,United States,12305
+423,Washington,United States,98405
+424,Washington,United States,98158
+425,Alabama,United States,35487
+426,New Jersey,United States,7505
+427,New York,United States,14609
+428,Washington,United States,98506
+429,New York,United States,10459
+430,New York,United States,10705
+431,Alabama,United States,36670
+432,Alabama,United States,35290
+433,New York,United States,14604
+434,New York,United States,10150
+435,New York,United States,10009
+436,New York,United States,10459
+437,Alaska,United States,99709
+438,New York,United States,14614
+439,New York,United States,10105
+440,New York,United States,10459
+441,New York,United States,10270
+442,New York,United States,14604
+443,Alabama,United States,36689
+444,Washington,United States,98109
+445,New York,United States,10004
+446,New York,United States,11854
+447,New York,United States,10459
+448,Alabama,United States,35895
+449,New York,United States,10105
+450,New York,United States,11388
+451,Washington,United States,98405
+452,New York,United States,10004
+453,New York,United States,14619
+454,New Jersey,United States,8650
+455,Alabama,United States,35487
+456,New York,United States,10184
+457,New Jersey,United States,8922
+458,Alabama,United States,36689
+459,New Jersey,United States,7112
+460,New York,United States,14905
+461,New York,United States,10105
+462,New York,United States,11355
+463,New York,United States,12247
+464,Alabama,United States,35244
+465,New York,United States,11254
+466,New York,United States,11215
+467,New York,United States,11205
+468,Washington,United States,98109
+469,New York,United States,11355
+470,New Jersey,United States,7104
+471,New York,United States,11210
+472,Alabama,United States,36641
+473,Washington,United States,98008
+474,New York,United States,14683
+475,New Jersey,United States,8922
+476,Alabama,United States,35236
+477,New Jersey,United States,7195
+478,Alabama,United States,35244
+479,New York,United States,12210
+480,New York,United States,11205
+481,Alabama,United States,36641
+482,New York,United States,10009
+483,New York,United States,12210
+484,New York,United States,14683
+485,New York,United States,13205
+486,Washington,United States,98682
+487,New York,United States,14604
+488,New York,United States,10039
+489,Alabama,United States,35215
+490,Alabama,United States,36689
+491,Washington,United States,98148
+492,New York,United States,14205
+493,Alaska,United States,99507
+494,New York,United States,10469
+495,New York,United States,12205
+496,Alabama,United States,35215
+497,Alabama,United States,35254
+498,New Jersey,United States,7505
+499,New Jersey,United States,8922
+500,New York,United States,11499
+501,New York,United States,11215
+502,Alabama,United States,35244
+503,Alabama,United States,35263
+504,New York,United States,14683
+505,Alabama,United States,36109
+506,New York,United States,10459
+507,New Jersey,United States,7505
+508,Alabama,United States,36177
+509,New York,United States,11355
+510,Alabama,United States,35487
+511,New York,United States,11407
+512,New York,United States,11024
+513,New York,United States,14604
+514,Washington,United States,98664
+515,New York,United States,14905
+516,Alabama,United States,35263
+517,New York,United States,10310
+518,New York,United States,10105
+519,Alabama,United States,36195
+520,Washington,United States,98405
+521,New Jersey,United States,8922
+522,New York,United States,12305
+523,New York,United States,14683
+524,New York,United States,10469
+525,New York,United States,10305
+526,New York,United States,10004
+527,New York,United States,14225
+528,Washington,United States,98516
+529,Alabama,United States,35487
+530,New York,United States,14604
+531,New York,United States,10469
+532,New York,United States,11044
+533,New York,United States,10160
+534,New York,United States,11854
+535,New York,United States,11247
+536,Alabama,United States,35236
+537,Washington,United States,98185
+538,New York,United States,14652
+539,New York,United States,10039
+540,Alabama,United States,35487
+541,New York,United States,12247
+542,Washington,United States,98140
+543,New Jersey,United States,8104
+544,New York,United States,11854
+545,Alabama,United States,36109
+546,Washington,United States,98195
+547,Washington,United States,98148
+548,New York,United States,12305
+549,New York,United States,14604
+550,New York,United States,14604
+551,New York,United States,11215
+552,Alabama,United States,36109
+553,Alaska,United States,99522
+554,New York,United States,10039
+555,Alabama,United States,36195
+556,Alaska,United States,99507
+557,Washington,United States,98442
+558,New York,United States,10155
+559,Washington,United States,98506
+560,New York,United States,12210
+561,New York,United States,10270
+562,New York,United States,10175
+563,New York,United States,10150
+564,Alabama,United States,36195
+565,Washington,United States,98185
+566,New York,United States,14619
+567,Alaska,United States,99522
+568,Washington,United States,98464
+569,New York,United States,10125
+570,New York,United States,10310
+571,New York,United States,10039
+572,New York,United States,10125
+573,New Jersey,United States,8695
+574,New York,United States,13205
+575,New York,United States,14276
+576,Washington,United States,98175
+577,New York,United States,10469
+578,Alabama,United States,35815
+579,New York,United States,12305
+580,New York,United States,14905
+581,Alabama,United States,36177
+582,Alabama,United States,35236
+583,Washington,United States,98008
+584,Alabama,United States,35205
+585,Alaska,United States,99507
+586,Washington,United States,98115
+587,New York,United States,14905
+588,New York,United States,14683
+589,Alabama,United States,35805
+590,New York,United States,11210
+591,Alabama,United States,36104
+592,New York,United States,10039
+593,New York,United States,10469
+594,Washington,United States,98516
+595,New York,United States,11470
+596,Alabama,United States,35805
+597,New York,United States,10270
+598,New York,United States,12247
+599,New York,United States,10105
+600,Washington,United States,98158
+601,New York,United States,10270
+602,Washington,United States,98516
+603,New York,United States,11388
+604,New York,United States,10150
+605,New Jersey,United States,7522
+606,New York,United States,11480
+607,Alabama,United States,36177
+608,New Jersey,United States,8922
+609,New York,United States,10039
+610,New York,United States,10469
+611,New York,United States,11388
+612,New York,United States,10305
+613,New Jersey,United States,7505
+614,New York,United States,10270
+615,New Jersey,United States,8104
+616,Alabama,United States,36641
+617,Alaska,United States,99599
+618,Alabama,United States,36104
+619,New York,United States,11205
+620,New York,United States,10184
+621,Washington,United States,98148
+622,New York,United States,14225
+623,Washington,United States,98008
+624,Alaska,United States,99599
+625,New York,United States,14604
+626,New Jersey,United States,8104
+627,New Jersey,United States,7522
+628,Washington,United States,98140
+629,New York,United States,10131
+630,New York,United States,11388
+631,Alabama,United States,35244
+632,New Jersey,United States,8104
+633,New York,United States,10155
+634,New York,United States,11854
+635,New York,United States,14276
+636,New York,United States,11355
+637,New York,United States,11854
+638,Alabama,United States,36104
+639,New York,United States,10469
+640,New York,United States,11210
+641,New York,United States,10170
+642,New York,United States,11210
+643,New York,United States,10270
+644,Washington,United States,98682
+645,Alabama,United States,36641
+646,New York,United States,12305
+647,Washington,United States,98442
+648,Washington,United States,98447
+649,New York,United States,10004
+650,Alabama,United States,36104
+651,Washington,United States,98158
+652,New York,United States,10060
+653,New York,United States,12210
+654,New York,United States,12305
+655,New York,United States,11388
+656,Washington,United States,98195
+657,New York,United States,12205
+658,New York,United States,10705
+659,New York,United States,13205
+660,New York,United States,11470
+661,New York,United States,14614
+662,Washington,United States,98185
+663,New York,United States,10060
+664,New York,United States,14652
+665,New York,United States,11388
+666,New York,United States,12205
+667,Washington,United States,98442
+668,Washington,United States,98115
+669,New York,United States,11355
+670,New York,United States,10131
+671,New York,United States,12210
+672,Alabama,United States,35236
+673,Alabama,United States,35205
+674,Alabama,United States,36177
+675,New Jersey,United States,7195
+676,Washington,United States,98664
+677,New York,United States,11470
+678,Alaska,United States,99709
+679,Washington,United States,98185
+680,New York,United States,10305
+681,Alabama,United States,35487
+682,New York,United States,11854
+683,New York,United States,14225
+684,Alabama,United States,35815
+685,New Jersey,United States,8695
+686,Alaska,United States,99507
+687,Alaska,United States,99709
+688,Washington,United States,98405
+689,New York,United States,10705
+690,Washington,United States,98405
+691,New York,United States,10060
+692,Washington,United States,98447
+693,Alabama,United States,35895
+694,New York,United States,10155
+695,Washington,United States,98148
+696,Alabama,United States,36195
+697,Washington,United States,98682
+698,Washington,United States,98442
+699,Washington,United States,98175
+700,New York,United States,14604
+701,New Jersey,United States,7505
+702,Washington,United States,98405
+703,New York,United States,11054
+704,New York,United States,11215
+705,New York,United States,11044
+706,Alabama,United States,36670
+707,New York,United States,11215
+708,New York,United States,11024
+709,Alabama,United States,35263
+710,Alabama,United States,35244
+711,New York,United States,11470
+712,Alabama,United States,36104
+713,New York,United States,10125
+714,New York,United States,10160
+715,Washington,United States,98195
+716,New York,United States,11254
+717,New York,United States,14619
+718,New York,United States,12305
+719,Washington,United States,98008
+720,New York,United States,11247
+721,New York,United States,11470
+722,Alabama,United States,36195
+723,New York,United States,14205
+724,Alabama,United States,35487
+725,New York,United States,11355
+726,Washington,United States,98405
+727,New York,United States,14205
+728,New York,United States,11210
+729,New York,United States,11480
+730,Washington,United States,98664
+731,Washington,United States,98687
+732,New York,United States,11407
+733,Alabama,United States,36641
+734,New York,United States,11470
+735,Washington,United States,98447
+736,Washington,United States,98109
+737,New York,United States,11205
+738,New Jersey,United States,7195
+739,Washington,United States,98008
+740,New York,United States,14225
+741,New York,United States,10175
+742,Washington,United States,98109
+743,New York,United States,11254
+744,Alabama,United States,36177
+745,Washington,United States,98447
+746,New York,United States,11480
+747,New York,United States,11024
+748,New York,United States,11355
+749,New York,United States,11205
+750,New York,United States,10060
+751,Washington,United States,98185
+752,New York,United States,10155
+753,Alabama,United States,36689
+754,Alabama,United States,35487
+755,New York,United States,10464
+756,New Jersey,United States,7195
+757,New York,United States,10310
+758,New York,United States,12247
+759,Washington,United States,98115
+760,Washington,United States,98516
+761,New Jersey,United States,7522
+762,New York,United States,11499
+763,New York,United States,12247
+764,New York,United States,11388
+765,Washington,United States,98175
+766,New York,United States,11355
+767,Washington,United States,98682
+768,New York,United States,14609
+769,Alaska,United States,99599
+770,New York,United States,10131
+771,Washington,United States,98175
+772,New York,United States,10160
+773,New York,United States,11388
+774,Washington,United States,98140
+775,Washington,United States,98195
+776,Washington,United States,98104
+777,New York,United States,11407
+778,Alabama,United States,36177
+779,Washington,United States,98185
+780,Alabama,United States,36205
+781,New York,United States,11024
+782,New York,United States,10004
+783,New York,United States,14614
+784,Washington,United States,98405
+785,Washington,United States,98682
+786,New Jersey,United States,7104
+787,Washington,United States,98185
+788,New York,United States,10160
+789,Alaska,United States,99507
+790,Alabama,United States,35290
+791,Alabama,United States,35815
+792,New York,United States,11355
+793,Alabama,United States,36670
+794,Washington,United States,98115
+795,New York,United States,11210
+796,New York,United States,10155
+797,New York,United States,11499
+798,Alabama,United States,36109
+799,New York,United States,11480
+800,New Jersey,United States,8104
+801,Alabama,United States,36689
+802,Alabama,United States,35236
+803,Washington,United States,98115
+804,Washington,United States,98115
+805,Washington,United States,98104
+806,New York,United States,11854
+807,Washington,United States,98158
+808,Washington,United States,98682
+809,New York,United States,10469
+810,New Jersey,United States,8104
+811,Alabama,United States,35244
+812,New York,United States,11054
+813,New York,United States,11854
+814,Alabama,United States,36205
+815,New York,United States,11054
+816,New York,United States,10125
+817,New York,United States,11254
+818,New York,United States,10270
+819,New York,United States,14205
+820,New York,United States,10150
+821,Washington,United States,98682
+822,New York,United States,10150
+823,New Jersey,United States,8695
+824,Alabama,United States,36205
+825,New York,United States,14683
+826,Washington,United States,98516
+827,Alabama,United States,35263
+828,New York,United States,10469
+829,New Jersey,United States,8695
+830,New York,United States,11210
+831,Alabama,United States,35236
+832,New York,United States,10009
+833,Alabama,United States,35815
+834,New York,United States,11024
+835,New York,United States,10039
+836,Alabama,United States,35895
+837,New York,United States,10160
+838,Alabama,United States,35215
+839,New York,United States,10004
+840,Washington,United States,98008
+841,Alabama,United States,35805
+842,New York,United States,11247
+843,Alaska,United States,99507
+844,New York,United States,10039
+845,Washington,United States,98148
+846,New Jersey,United States,7195
+847,Washington,United States,98148
+848,New York,United States,11205
+849,New York,United States,13205
+850,Washington,United States,98140
+851,New York,United States,11054
+852,New York,United States,14205
+853,New York,United States,10125
+854,New York,United States,11247
+855,Washington,United States,98140
+856,New York,United States,13205
+857,New York,United States,11854
+858,New York,United States,10131
+859,New York,United States,11044
+860,Alabama,United States,35263
+861,New Jersey,United States,8922
+862,New York,United States,10170
+863,New York,United States,10105
+864,New York,United States,14683
+865,Alabama,United States,35254
+866,New York,United States,12305
+867,Alabama,United States,35815
+868,New Jersey,United States,8695
+869,Washington,United States,98148
+870,Alaska,United States,99599
+871,Alabama,United States,36177
+872,New York,United States,14614
+873,Alabama,United States,35290
+874,Washington,United States,98664
+875,New York,United States,10705
+876,Washington,United States,98464
+877,New Jersey,United States,7505
+878,Washington,United States,98008
+879,Washington,United States,98109
+880,Alabama,United States,35895
+881,New York,United States,10170
+882,New York,United States,13205
+883,New Jersey,United States,7104
+884,Washington,United States,98008
+885,New York,United States,10469
+886,New York,United States,11480
+887,New York,United States,10045
+888,New York,United States,10469
+889,New York,United States,11044
+890,Washington,United States,98664
+891,New York,United States,10150
+892,Alabama,United States,35805
+893,New York,United States,10184
+894,New York,United States,10060
+895,New York,United States,11215
+896,Washington,United States,98175
+897,New York,United States,14614
+898,Alaska,United States,99507
+899,New York,United States,11407
+900,New York,United States,11054
+901,Washington,United States,98115
+902,Alaska,United States,99507
+903,Washington,United States,98464
+904,New York,United States,10305
+905,New York,United States,10270
+906,New York,United States,14205
+907,New York,United States,10464
+908,New York,United States,12210
+909,Alabama,United States,36205
+910,New York,United States,11254
+911,Washington,United States,98104
+912,New York,United States,14276
+913,Washington,United States,98447
+914,New York,United States,11355
+915,New York,United States,11024
+916,Alabama,United States,36670
+917,New York,United States,10105
+918,New Jersey,United States,7104
+919,New York,United States,14652
+920,Alabama,United States,35487
+921,New York,United States,10310
+922,New York,United States,10270
+923,New York,United States,11215
+924,Alabama,United States,35205
+925,Washington,United States,98008
+926,New Jersey,United States,8650
+927,New York,United States,10464
+928,Washington,United States,98008
+929,Alabama,United States,36177
+930,Washington,United States,98664
+931,New York,United States,10009
+932,Washington,United States,98682
+933,New York,United States,11480
+934,New Jersey,United States,7104
+935,Washington,United States,98464
+936,Washington,United States,98104
+937,New Jersey,United States,7195
+938,New York,United States,11247
+939,Alaska,United States,99709
+940,Alabama,United States,35254
+941,New York,United States,10705
+942,New York,United States,11024
+943,New York,United States,11044
+944,Washington,United States,98195
+945,Alabama,United States,36195
+946,Washington,United States,98464
+947,New York,United States,10184
+948,New York,United States,10305
+949,Alaska,United States,99507
+950,Alabama,United States,35205
+951,New York,United States,11215
+952,Washington,United States,98115
+953,New York,United States,10009
+954,New York,United States,14614
+955,Alaska,United States,99507
+956,Alaska,United States,99522
+957,New York,United States,14614
+958,Alaska,United States,99507
+959,Washington,United States,98195
+960,New York,United States,14276
+961,Washington,United States,98405
+962,New York,United States,14652
+963,Alaska,United States,99599
+964,Washington,United States,98506
+965,New York,United States,10469
+966,New York,United States,11355
+967,New York,United States,14652
+968,Alaska,United States,99522
+969,New York,United States,10155
+970,Alaska,United States,99522
+971,Alabama,United States,36104
+972,Alabama,United States,35805
+973,New York,United States,14604
+974,Washington,United States,98115
+975,New York,United States,10045
+976,Alabama,United States,35895
+977,New York,United States,14609
+978,New Jersey,United States,8650
+979,New York,United States,14604
+980,New York,United States,10060
+981,New York,United States,12305
+982,New York,United States,11205
+983,Washington,United States,98158
+984,Alabama,United States,36109
+985,Washington,United States,98405
+986,New York,United States,13205
+987,Washington,United States,98140
+988,New York,United States,14905
+989,Washington,United States,98148
+990,Washington,United States,98185
+991,New York,United States,14652
+992,New York,United States,11215
+993,New Jersey,United States,8695
+994,New York,United States,11247
+995,Alaska,United States,99507
+996,Washington,United States,98175
+997,New York,United States,11215
+998,Alabama,United States,35290
+999,New York,United States,11499
+1000,New York,United States,14683
